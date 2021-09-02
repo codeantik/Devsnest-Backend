@@ -1,0 +1,1 @@
+This repo consists of all backend projects in the Devsnest backend course
